@@ -19,5 +19,8 @@
   "resolutions": {
     "path-parse": "1.0.7"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "yarn": "^1.22.22"
+  }
 }
